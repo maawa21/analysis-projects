@@ -1,10 +1,10 @@
-(Overview)
+(Overview):
 This repository contains a collection of specialized projects that rely on data analysis and database management using SQL.
 
-(Technologies Used)
+(Technologies Used):
 MySQL: For data managment, information extraction, and writing complex queries.
 
-(Contained Projects)
+(Contained Projects):
 dairy_dataset_pbi.sql: Analytical queries and data processing focused on (dairy/food products) dataset.
 these queries include (cleaning the data, analyzing the sales based on different aspects, and ranking by window function)
 
